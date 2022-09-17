@@ -116,3 +116,7 @@ dist
 # Windows
 ehthumbs.db
 Thumbs.db
+
+# Output
+raw.json
+result.json
